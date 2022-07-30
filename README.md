@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# KODLUYORUZ İLK REPO
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## Installation
@@ -19,5 +19,5 @@ code
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-# Licence
+## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
