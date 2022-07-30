@@ -1,6 +1,6 @@
 # KODLUYORUZ İLK REPO
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![github.png]
+![](github.png)
 
 ## Installation
 Öncelikle projeyi klonlayın , buraya sizin reponuzdan aldığınız link gelecek
