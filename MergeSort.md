@@ -10,5 +10,5 @@
 * [11,16,21]							[8,12,22]
 * * [8,11,12,16,21,22]
 				
-
+[![N|Solid](www.patika.dev)
 [PATIKA](www.patika.dev)
